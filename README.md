@@ -1,6 +1,6 @@
 # Guide
 
-# :books: Documention and examples for building with Janus VR
+## :books: Documention for building with Janus VR
 
 Table of Contents
 
