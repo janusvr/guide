@@ -21,6 +21,7 @@ Native C++ client for browsing and editing the immersive web.
 
 ![Janus client](https://i.imgur.com/xVguGZb.jpg)
 
+
 ---
 
 ### Jandroid 
@@ -37,7 +38,11 @@ Port of the native client to Android devices.
 
 **<https://github.com/jbaicoianu/janusweb>**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3d9fLI6shHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Web client built from the ground up with feature parity to native Janus to run on standard web browsers.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/3d9fLI6shHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Build immersive 3D environments for desktop, mobile, and VR devices using HTML and JS
 - Rendering functionality provided by Three.js / WebGL
