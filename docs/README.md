@@ -1,14 +1,15 @@
-# Guide to JanusVR
+# Welcome
 
-JanusVR is a 3D internet browser and visual editor where users can meet and create VR content together in real-time. Like internet browsers before it, the content made with Janus is hosted externally from itself, existing on the domain of your choice.
+[JanusVR](https://janusvr.github.io/guide/#/home/about) combines the power of internet freedom with the potential of virtual reality. Websites become immersing spaces linked by portals, where users can explore, collaborate, and author content on a platform that builds upon the open web.
+
 
 ## Features
 
-- Create WebXR content in a real-time collaborative editor
-- Author with our extended HTML and javascript framework
+- Create 3D content in a real-time collaborative editor with no code
+- Author using our extended HTML and Javascript framework with WebXR support
 - Easily add social and interlinked experiences to your virtual worlds
-- Open source native and web clients, networking server, and [tools](https://github.com/janusvr/janus-tools) for porting content
-- Optimized for 2D displays with support for Oculus Rift, HTC Vive, WMR, and other I/O
+- Open source C++ and JS web clients, networking server, and [tools](https://github.com/janusvr/janus-tools) for porting content
+- Optimized for 2D displays with VR support for Oculus Rift, HTC Vive, WMR, and other I/O
 - Navigate using traditional gamer controls, touch, teleportation, or 3D hand gestures
 - Real-time physics, physically based rendering, spatialized audio, glTF 2.0 support
 - Customize your avatar ([see examples](https://github.com/janusvr-examples/custom-avatars))
@@ -18,7 +19,7 @@ JanusVR is a 3D internet browser and visual editor where users can meet and crea
 
 **<https://github.com/janusvr/janus>**
 
-Native C++ client for browsing and editing the immersive web.
+Janus is an early release open source 3D internet browser and visual editor where users can meet and create VR content together in real-time. Like internet browsers before it, the content made with Janus is hosted externally from itself, existing on the domain of your choice. 
 
 ![Janus client](https://i.imgur.com/xVguGZb.jpg)
 
@@ -41,7 +42,7 @@ Port of the native client to Android devices.
 
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/3d9fLI6shHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Web client built from the ground up with feature parity to native Janus to run on standard web browsers.
+Javascript based web client built from the ground up with feature parity with the native Janus version to run on standard web browsers.
 
 - Build immersive 3D environments for desktop, mobile, and VR devices using HTML and JS
 - Rendering functionality provided by Three.js / WebGL
