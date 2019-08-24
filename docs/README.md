@@ -40,9 +40,9 @@ Port of the native client to Android devices.
 
 **<https://github.com/jbaicoianu/janusweb>**
 
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/3d9fLI6shHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Javascript web client built from the ground up with feature parity with the native Janus version to run on standard web browsers. See release notes for version 1.5: <https://github.com/jbaicoianu/janusweb/wiki/Release-Notes>
 
-Javascript based web client built from the ground up with feature parity with the native Janus version to run on standard web browsers.
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/3d9fLI6shHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Build immersive 3D environments for desktop, mobile, and VR devices using HTML and JS
 - Rendering functionality provided by Three.js / WebGL
