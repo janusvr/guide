@@ -1,6 +1,6 @@
-# Welcome
+# Hello Metaverse
 
-[JanusVR](https://janusvr.github.io/guide/#/home/about) combines the power of internet freedom with the potential of virtual reality. Websites become immersing spaces linked by portals, where users can explore, collaborate, and author content on a platform that builds upon the open web.
+[JanusVR](https://janusvr.github.io/guide/#/home/about) combines the power of internet freedom with the potential of virtual reality. Websites become immersive spaces linked by portals, where users can explore, collaborate, and author content on a platform that builds upon the open web.
 
 
 ## Features
