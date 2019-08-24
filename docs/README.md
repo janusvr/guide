@@ -1,11 +1,12 @@
 # Guide to JanusVR
 
-JanusVR is a 3D internet browser and editor where users can meet and create VR content together in real-time.
+JanusVR is a 3D internet browser and visual editor where users can meet and create VR content together in real-time. Like internet browsers before it, the content made with Janus is hosted externally from itself, existing on the domain of your choice.
 
 ## Features
 
 - Create WebXR content in a real-time collaborative editor
 - Author with our extended HTML and javascript framework
+- Easily add social and interlinked experiences to your virtual worlds
 - Open source native and web clients, networking server, and [tools](https://github.com/janusvr/janus-tools) for porting content
 - Optimized for 2D displays with support for Oculus Rift, HTC Vive, WMR, and other I/O
 - Navigate using traditional gamer controls, touch, teleportation, or 3D hand gestures
