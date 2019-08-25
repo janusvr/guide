@@ -21,6 +21,9 @@
 
 Janus is an early release open source 3D internet browser and visual editor where users can meet and create VR content together in real-time. Like internet browsers before it, the content made with Janus is hosted externally from itself, existing on the domain of your choice. 
 
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/IZI4U0uHYzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ![Janus client](https://i.imgur.com/xVguGZb.jpg)
 
 
